@@ -1,2 +1,2 @@
 # mnn
--
+print('Hello World!')
